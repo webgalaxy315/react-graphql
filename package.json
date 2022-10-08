@@ -2,6 +2,7 @@
   "name": "react-graphql",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://webgalaxy315.github.io/react-graphql",
   "dependencies": {
     "@apollo/client": "^3.7.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -38,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "prettier": "2.7.1"
   }
 }
